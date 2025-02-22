@@ -1,0 +1,13 @@
+# Initially cloned from the Talon Community Plugin (https://github.com/talonhub/community). 
+# Talon Community Plugin is provided under the MIT License: https://github.com/talonhub/community/blob/main/LICENSE
+
+# Dev stuff
+__pycache__
+*.sw?
+.idea/
+# Locally generated
+/settings
+.vscode/settings.json
+.DS_Store
+*.bak
+*.talon-list
